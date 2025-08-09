@@ -45,7 +45,17 @@ A GitHub repository and a `README.md` file is required. We'll be making use of r
 
   ```md
   <!--START_SECTION:waka-->
-  <!--END_SECTION:waka-->
+
+```txt
+From: 01 August 2025 - To: 08 August 2025
+
+Total Time: 0 secs
+
+INI          0 secs          ██████████████▓░░░░░░░░░░   58.50 %
+TypeScript   0 secs          ██████████▒░░░░░░░░░░░░░░   41.50 %
+```
+
+<!--END_SECTION:waka-->
   ```
 
   `<!--START_SECTION: -->` and `<!--END_SECTION: -->` are placeholders and must be retained as is. Whereas "`waka`" can be replaced by any alphanumeric string. See [#Tweaks](#tweaks) section for more.

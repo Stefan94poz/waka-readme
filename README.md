@@ -47,15 +47,15 @@ A GitHub repository and a `README.md` file is required. We'll be making use of r
   <!--START_SECTION:waka-->
 
 ```txt
-From: 30 May 2026 - To: 06 June 2026
+From: 31 May 2026 - To: 07 June 2026
 
-Total Time: 4 hrs 55 mins
+Total Time: 7 hrs 29 mins
 
-TypeScript   2 hrs 40 mins         █████████████▓░░░░░░░░░░░   54.24 %
-Astro        1 hr 12 mins          ██████░░░░░░░░░░░░░░░░░░░   24.33 %
-JSON         38 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.02 %
-Markdown     23 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 %
-Other        1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
+TypeScript   4 hrs 19 mins         ██████████████▒░░░░░░░░░░   57.62 %
+Astro        1 hr 14 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.50 %
+Markdown     55 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.24 %
+JSON         46 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.35 %
+Bash         10 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.44 %
 ```
 
 <!--END_SECTION:waka-->
